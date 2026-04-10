@@ -2,6 +2,10 @@
 
 A Snowflake-powered Streamlit dashboard that provides compliance officers with instant visibility into contract expirations, risk levels, and financial exposure. This project was developed for the CSEGSA Hackathon 2026.
 
+## Live Application
+
+- **Streamlit Dashboard:** [Open Compliance at a Glance](https://app.snowflake.com/streamlit/kgtinyl/eb87883/#/apps/pbxsrc6e55e3v5pm4c5e)
+
 ## Problem Statement
 
 Legal teams often manage hundreds of contracts without a centralized view of what is expiring, high-risk, or financially significant. This dashboard helps compliance officers monitor contract portfolios and make informed decisions.
