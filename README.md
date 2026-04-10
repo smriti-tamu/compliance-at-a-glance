@@ -5,6 +5,14 @@ A Snowflake-powered Streamlit dashboard that provides compliance officers with i
 ## Live Application
 
 - **Streamlit Dashboard:** [Open Compliance at a Glance](https://app.snowflake.com/streamlit/kgtinyl/eb87883/#/apps/pbxsrc6e55e3v5pm4c5e)
+- ## 🎥 Demo Video
+
+Watch a walkthrough of the **Compliance at a Glance** dashboard:
+
+[![Watch the Demo](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1RkzkEBzW8FOs92hjKLAlP3KGewxrakm_/view?usp=sharing)
+
+**Direct Link:**  
+https://drive.google.com/file/d/1RkzkEBzW8FOs92hjKLAlP3KGewxrakm_/view?usp=sharing
 
 ## Problem Statement
 
